@@ -1,0 +1,3 @@
+{
+	"mongoURI":"mongodb+srv://TechhUser:TechhPass@techhcluster.7lflw.mongodb.net/social?retryWrites=true&w=majority"
+}
